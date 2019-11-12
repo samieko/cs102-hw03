@@ -1,0 +1,4 @@
+Processing input file: example_input.csv
+2.0
+1.0
+0.0
